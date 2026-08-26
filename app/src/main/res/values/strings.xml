@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pupa</string>
+    <string name="service_label">Pupa Monitor</string>
+    <string name="service_description">Monitorea el uso de apps para ayudarte a reducir el tiempo en pantalla</string>
+</resources>
